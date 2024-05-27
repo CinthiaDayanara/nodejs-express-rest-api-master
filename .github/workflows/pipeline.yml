@@ -58,5 +58,5 @@ jobs:
         uses: bervProject/railway-deploy@main
         with:
           railway_token: 5677a4e9-990f-434c-8ffc-7bdf3307db91
-          service: "REST-API"
+          service: "rest-api"
           detach: true
