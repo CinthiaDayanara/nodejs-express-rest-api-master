@@ -57,6 +57,6 @@ jobs:
         if: ${{ github.event_name == 'push' }}
         uses: bervProject/railway-deploy@main
         with:
-          railway_token: 59b778dd-e988-4274-aaaa-73186b89cf95
+          railway_token: 5677a4e9-990f-434c-8ffc-7bdf3307db91
           service: "RestApi"
           detach: true
